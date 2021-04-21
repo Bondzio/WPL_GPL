@@ -1,0 +1,51 @@
+
+Alter: 1 Jahre
+Stunden: 8760
+
+Alter: 11 Jahre
+Stunden: 96360
+
+Alter: 98 Jahre
+Stunden: 858480
+
+Alter: 77 Jahre
+Stunden: 674520
+
+Alter: 33 Jahre
+Stunden: 289080
+
+Alter: 44 Jahre
+Stunden: 385440
+
+Alter: 77 Jahre
+Stunden: 674520
+
+Alter: 99 Jahre
+Stunden: 867240
+
+Alter: 88 Jahre
+Stunden: 770880
+
+Alter: 77 Jahre
+Stunden: 674520
+
+Alter: 66 Jahre
+Stunden: 578160
+
+Alter: 55 Jahre
+Stunden: 481800
+
+Alter: 3 Jahre
+Stunden: 26280
+
+Alter: 33 Jahre
+Stunden: 289080
+
+Alter: 22 Jahre
+Stunden: 192720
+
+Alter: 3 Jahre
+Stunden: 26280
+
+Alter: 34 Jahre
+Stunden: 297840
