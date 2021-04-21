@@ -6,10 +6,10 @@ import datetime
 ######################################################
 # Define constants
 ######################################################
-FILENAME = "/home/nuc8/PycharmProjects/WPL_GUI/Georg/alterinstunden.txt"
-BTN_IMG = '/home/nuc8/Pictures/matsch/'
-BTN_LOGO = '/home/nuc8/Pictures/python_development_images/'
-IMG_NAME = 'save_to_disk_4.png'
+FILENAME = "alterinstunden.txt"
+IMG_NAME = "georg_2014.png"
+LOGO_NAME = "fhg.png"
+BTN_NAME = 'save_to_disk_4.png'
 VERSION = "Version 1.1 2021 "
 
 ######################################################
@@ -36,9 +36,9 @@ def showMeTheButtons():
         [sg.Text('Georg-Homework', font=(wp.myFont3, 35), size=(20, 1), justification='center')],
         [sg.Text('', background_color=wp.YELLOW, text_color=wp.YELLOW)],  # empty row
         [sg.Text('', size=(20, 1), background_color=wp.YELLOW, text_color=wp.YELLOW),
-         sg.Image(filename=BTN_IMG + 'georg_2014.png', background_color=wp.YELLOW, tooltip=' Dr. Georg PLESSL '),
+         sg.Image(filename=IMG_NAME, background_color=wp.YELLOW, tooltip=' Dr. Georg PLESSL '),
          sg.Text('', size=(3, 1), background_color=wp.YELLOW, text_color=wp.YELLOW),
-         sg.Image(filename=BTN_LOGO + 'fhg.png', background_color=wp.YELLOW, tooltip=' Frauenhofer-Gesselschaft ')],
+         sg.Image(filename=LOGO_NAME, background_color=wp.YELLOW, tooltip=' Frauenhofer-Gesselschaft ')],
         [sg.Text('', background_color=wp.YELLOW, text_color=wp.YELLOW)],  # empty row
         [sg.Text('', size=(15, 1), background_color=wp.YELLOW, text_color=wp.YELLOW),
          sg.Text('Please enter your age:', size=(17, 1), background_color=wp.YELLOW, text_color=wp.BLACK,
@@ -49,7 +49,7 @@ def showMeTheButtons():
                  font=(wp.myFont3, 15))],
         [sg.Text('', background_color=wp.YELLOW, text_color=wp.YELLOW)],  # empty row
         [sg.Text('', size=(52, 1), background_color=wp.YELLOW, text_color=wp.YELLOW),
-         sg.Button('', image_filename=BTN_LOGO + IMG_NAME, image_subsample=4, button_color=wp.YELLOW,
+         sg.Button('', image_filename=BTN_NAME, image_subsample=4, button_color=wp.YELLOW,
                    pad=(0, 0), key='-WRITE-TO-FILE-', border_width=5, font=(wp.myFont, 15),
                    tooltip=' Store hours to local file ')],
         [sg.Text('', background_color=wp.YELLOW, text_color=wp.YELLOW)],  # empty row

@@ -49,3 +49,24 @@ Stunden: 26280
 
 Alter: 34 Jahre
 Stunden: 297840
+
+Alter: 6 Jahre
+Stunden: 52560
+
+Alter: 55 Jahre
+Stunden: 481800
+
+Alter: 12 Jahre
+Stunden: 105120
+
+Alter: 100 Jahre
+Stunden: 876000
+
+Alter: 99 Jahre
+Stunden: 867240
+
+Alter: 45 Jahre
+Stunden: 394200
+
+Alter: 33 Jahre
+Stunden: 289080

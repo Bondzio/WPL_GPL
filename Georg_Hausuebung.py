@@ -9,7 +9,7 @@
 ####################################################################
 import Georg_Funktion as gf
 
-FILENAME = "/home/nuc8/PycharmProjects/WPL_GUI/Georg/alterinstunden.txt"
+FILENAME = "alterinstunden.txt"
 
 if __name__ == '__main__':
 
