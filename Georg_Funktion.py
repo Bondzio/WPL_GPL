@@ -2,6 +2,7 @@ def alterinStunden(jahre):
     stunden = jahre * 365 * 24
     return stunden
 
+
 def alterInput():
     while True:
         try:
