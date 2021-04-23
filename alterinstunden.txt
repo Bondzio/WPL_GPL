@@ -70,3 +70,18 @@ Stunden: 394200
 
 Alter: 33 Jahre
 Stunden: 289080
+
+Alter: 33 Jahre
+Stunden: 289080
+
+Alter: 4 Jahre
+Stunden: 35040
+
+Alter: 3 Jahre
+Stunden: 26280
+
+Alter: 5 Jahre
+Stunden: 43800
+
+Alter: 4 Jahre
+Stunden: 35040

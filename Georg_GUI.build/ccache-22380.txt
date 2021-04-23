@@ -1,0 +1,584 @@
+[2021-04-21T11:00:07.388547 18600] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:07.388547 18600] Config: (default) base_dir = 
+[2021-04-21T11:00:07.388547 18600] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.388547 18600] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.388547 18600] Config: (default) compiler = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.388547 18600] Config: (default) compression = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.388547 18600] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) debug = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.388547 18600] Config: (default) disable = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) hard_link = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.388547 18600] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.388547 18600] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.388547 18600] Config: (default) max_files = 0
+[2021-04-21T11:00:07.388547 18600] Config: (default) max_size = 5.0G
+[2021-04-21T11:00:07.388547 18600] Config: (default) path = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) read_only = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) recache = false
+[2021-04-21T11:00:07.388547 18600] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.388547 18600] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) stats = true
+[2021-04-21T11:00:07.388547 18600] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.388547 18600] Config: (default) umask = 
+[2021-04-21T11:00:07.390050 18600] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-04-21T11:00:07.390548 18600] Hostname: LACYWRHYQB
+[2021-04-21T11:00:07.391046 18600] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:07.393047 18600] Source file: static_src\CompiledCellType.c
+[2021-04-21T11:00:07.393547 18600] Object file: static_src\CompiledCellType.o
+[2021-04-21T11:00:07.394048 18600] Trying direct lookup
+[2021-04-21T11:00:07.396047 18600] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/177accec1e87f53828b04d7c549a1b-8041.manifest
+[2021-04-21T11:00:07.396550 18600] No such manifest file
+[2021-04-21T11:00:07.396550 18600] Did not find object file hash in manifest
+[2021-04-21T11:00:07.402046 18600] Running preprocessor
+[2021-04-21T11:00:07.442050 22524] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:07.442050 22524] Config: (default) base_dir = 
+[2021-04-21T11:00:07.442050 22524] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.442050 22524] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.442050 22524] Config: (default) compiler = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.442050 22524] Config: (default) compression = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.442050 22524] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) debug = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.442050 22524] Config: (default) disable = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) hard_link = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.442050 22524] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.442050 22524] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.442050 22524] Config: (default) max_files = 0
+[2021-04-21T11:00:07.442050 22524] Config: (default) max_size = 5.0G
+[2021-04-21T11:00:07.442050 22524] Config: (default) path = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) read_only = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) recache = false
+[2021-04-21T11:00:07.442050 22524] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.442050 22524] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) stats = true
+[2021-04-21T11:00:07.442050 22524] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.442050 22524] Config: (default) umask = 
+[2021-04-21T11:00:07.443548 22524] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2021-04-21T11:00:07.444048 22524] Hostname: LACYWRHYQB
+[2021-04-21T11:00:07.444548 22524] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:07.446549 22524] Source file: __helpers.c
+[2021-04-21T11:00:07.446549 22524] Object file: __helpers.o
+[2021-04-21T11:00:07.447048 22524] Trying direct lookup
+[2021-04-21T11:00:07.449049 22524] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/6/e5072091b793d2aeee44730ea4a64d-61946.manifest
+[2021-04-21T11:00:07.449547 22524] No such manifest file
+[2021-04-21T11:00:07.449547 22524] Did not find object file hash in manifest
+[2021-04-21T11:00:07.452548 22524] Running preprocessor
+[2021-04-21T11:00:07.470547 21628] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:07.470547 21632] Config: (default) base_dir = 
+[2021-04-21T11:00:07.470547 21632] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.470547 21632] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.470547 21632] Config: (default) compiler = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.470547 21632] Config: (default) compression = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.470547 21632] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) debug = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.470547 21632] Config: (default) disable = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) hard_link = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.470547 21632] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.470547 21632] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.470547 21632] Config: (default) max_files = 0
+[2021-04-21T11:00:07.470547 21632] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:07.470547 21632] Config: (default) path = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) read_only = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) recache = false
+[2021-04-21T11:00:07.470547 21632] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.470547 21632] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) stats = true
+[2021-04-21T11:00:07.470547 21632] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.470547 21632] Config: (default) umask = 
+[2021-04-21T11:00:07.472548 21632] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-04-21T11:00:07.472548 21632] Hostname: LACYWRHYQB
+[2021-04-21T11:00:07.470547 22236] Config: (default) base_dir = 
+[2021-04-21T11:00:07.470547 22236] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.470547 22236] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.470547 22236] Config: (default) compiler = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.470547 22236] Config: (default) compression = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.470547 22236] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) debug = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.470547 22236] Config: (default) disable = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) hard_link = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.470547 22236] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.470547 22236] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.470547 22236] Config: (default) max_files = 0
+[2021-04-21T11:00:07.470547 22236] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:07.470547 22236] Config: (default) path = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) read_only = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) recache = false
+[2021-04-21T11:00:07.470547 22236] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.470547 22236] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) stats = true
+[2021-04-21T11:00:07.470547 22236] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.470547 22236] Config: (default) umask = 
+[2021-04-21T11:00:07.472548 22236] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+ts.c
+[2021-04-21T11:00:07.473047 21632] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+nvironment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.470547 21628] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.470547 21628] Config: (default) compiler = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.470547 21628] Config: (default) compression = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.470547 21628] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) debug = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.470547 21628] Config: (default) disable = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) hard_link = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.470547 21628] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.470547 21628] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.470547 21628] Config: (default) max_files = 0
+[2021-04-21T11:00:07.470547 21628] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:07.470547 21628] Config: (default) path = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) read_only = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) recache = false
+[2021-04-21T11:00:07.470547 21628] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.470547 21628] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) stats = true
+[2021-04-21T11:00:07.470547 21628] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.470547 21628] Config: (default) umask = 
+[2021-04-21T11:00:07.472548 21628] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-04-21T11:00:07.473047 21628] Hostname: LACYWRHYQB
+[2021-04-21T11:00:07.474097 4276 ] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:07.474097 21628] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:07.475169 21632] Source file: static_src\CompiledFunctionType.c
+[2021-04-21T11:00:07.475169 21632] Object file: static_src\CompiledFunctionType.o
+[2021-04-21T11:00:07.475548 21632] Trying direct lookup
+[2021-04-21T11:00:07.476048 22236] Source file: __loader.c
+c
+iledGeneratorType.c
+[2021-04-21T11:00:07.476048 22236] Object file: __loader.o
+o
+iledGeneratorType.o
+[2021-04-21T11:00:07.477548 21628] Trying direct lookup
+[2021-04-21T11:00:07.477548 4276 ] Trying direct lookup
+[2021-04-21T11:00:07.478049 21632] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/a/6c8904d205fa0dfebc8133ffe2d113-79022.manifest
+[2021-04-21T11:00:07.478548 21632] No such manifest file
+[2021-04-21T11:00:07.478548 21632] Did not find object file hash in manifest
+[2021-04-21T11:00:07.479549 22236] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/a/b4afc63ad9ade4c65bae889a12a3a0-3185.manifest
+[2021-04-21T11:00:07.479549 4276 ] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/5/4c7e99efa631b70ba149a614ac7326-4769.manifest
+[2021-04-21T11:00:07.479549 21628] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/5/f7bc8607b8fc6c523c47c2f9a4afdb-57471.manifest
+[2021-04-21T11:00:07.480048 4276 ] No such manifest file
+[2021-04-21T11:00:07.480548 4276 ] Did not find object file hash in manifest
+[2021-04-21T11:00:07.480653 22236] No such manifest file
+[2021-04-21T11:00:07.480653 22236] Did not find object file hash in manifest
+[2021-04-21T11:00:07.480856 21628] Did not find object file hash in manifest
+[2021-04-21T11:00:07.481047 21632] Running preprocessor
+[2021-04-21T11:00:07.483549 4276 ] Running preprocessor
+[2021-04-21T11:00:07.484049 22236] Running preprocessor
+[2021-04-21T11:00:07.484049 21628] Running preprocessor
+[2021-04-21T11:00:07.522049 22368] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:07.522049 22368] Config: (default) base_dir = 
+[2021-04-21T11:00:07.522049 22368] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.522049 22368] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.522049 22368] Config: (default) compiler = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.522049 22368] Config: (default) compression = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.522049 22368] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) debug = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.522049 22368] Config: (default) disable = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) hard_link = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.522049 22368] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.522049 22368] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.522049 22368] Config: (default) max_files = 0
+[2021-04-21T11:00:07.522049 22368] Config: (default) max_size = 5.0G
+[2021-04-21T11:00:07.522049 22368] Config: (default) path = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) read_only = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) recache = false
+[2021-04-21T11:00:07.522049 22368] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.522049 22368] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) stats = true
+[2021-04-21T11:00:07.522049 22368] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.522049 22368] Config: (default) umask = 
+[2021-04-21T11:00:07.524548 22368] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-04-21T11:00:07.525049 22368] Hostname: LACYWRHYQB
+[2021-04-21T11:00:07.525548 22368] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:07.527551 22368] Source file: static_src\MainProgram.c
+[2021-04-21T11:00:07.527551 22368] Object file: static_src\MainProgram.o
+[2021-04-21T11:00:07.528049 22368] Trying direct lookup
+[2021-04-21T11:00:07.530048 22368] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/3/0fb734e9a86184b006a2a1160da2f2-26291.manifest
+[2021-04-21T11:00:07.530549 22368] No such manifest file
+[2021-04-21T11:00:07.530549 22368] Did not find object file hash in manifest
+[2021-04-21T11:00:07.533550 22368] Running preprocessor
+[2021-04-21T11:00:07.534050 20740] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:07.534050 20740] Config: (default) base_dir = 
+[2021-04-21T11:00:07.534050 20740] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:07.534050 20740] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:07.534050 20740] Config: (default) compiler = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:07.534050 20740] Config: (default) compression = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) compression_level = 6
+[2021-04-21T11:00:07.534050 20740] Config: (default) cpp_extension = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) debug = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) depend_mode = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) direct_mode = true
+[2021-04-21T11:00:07.534050 20740] Config: (default) disable = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) hard_link = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) hash_dir = true
+[2021-04-21T11:00:07.534050 20740] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:07.534050 20740] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:07.534050 20740] Config: (default) max_files = 0
+[2021-04-21T11:00:07.534050 20740] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:07.534050 20740] Config: (default) path = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) prefix_command = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) read_only = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) read_only_direct = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) recache = false
+[2021-04-21T11:00:07.534050 20740] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:07.534050 20740] Config: (default) sloppiness = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) stats = true
+[2021-04-21T11:00:07.534050 20740] Config: (default) temporary_dir = 
+[2021-04-21T11:00:07.534050 20740] Config: (default) umask = 
+[2021-04-21T11:00:07.538047 20740] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2021-04-21T11:00:07.538294 20740] Hostname: LACYWRHYQB
+[2021-04-21T11:00:07.538548 20740] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:07.541049 20740] Source file: module.__main__.c
+[2021-04-21T11:00:07.541049 20740] Object file: module.__main__.o
+[2021-04-21T11:00:07.541549 20740] Trying direct lookup
+[2021-04-21T11:00:07.548548 20740] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/6/7c1cd2e5678daf86efa66698d2162f-258296.manifest
+[2021-04-21T11:00:07.549048 20740] No such manifest file
+[2021-04-21T11:00:07.549048 20740] Did not find object file hash in manifest
+[2021-04-21T11:00:07.552051 20740] Running preprocessor
+[2021-04-21T11:00:11.716345 22236] Got object file hash from preprocessor
+[2021-04-21T11:00:11.717343 22236] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/795ca1e5d25e4911c876da059cd366-440881.o not in cache
+[2021-04-21T11:00:11.717343 22236] Running real compiler
+[2021-04-21T11:00:12.220588 4276 ] Got object file hash from preprocessor
+[2021-04-21T11:00:12.220588 4276 ] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/82a90738c8a7902a9b62e28289108c-627605.o not in cache
+[2021-04-21T11:00:12.220588 4276 ] Running real compiler
+[2021-04-21T11:00:12.280166 18600] Got object file hash from preprocessor
+[2021-04-21T11:00:12.281163 18600] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/cc53a2a18a9ea1e97e3a2192518bbe-631282.o not in cache
+[2021-04-21T11:00:12.281163 18600] Running real compiler
+[2021-04-21T11:00:12.293784 21632] Got object file hash from preprocessor
+[2021-04-21T11:00:12.293784 21632] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/eddb68e606c2c0bae123f8b79a2a49-711737.o not in cache
+[2021-04-21T11:00:12.293784 21632] Running real compiler
+[2021-04-21T11:00:12.307423 22524] Got object file hash from preprocessor
+[2021-04-21T11:00:12.308422 22524] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2086c7f8d4b0df476e96b44d5b31c7-664350.o not in cache
+[2021-04-21T11:00:12.308422 22524] Running real compiler
+[2021-04-21T11:00:12.390780 20740] Got object file hash from preprocessor
+[2021-04-21T11:00:12.390780 20740] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/088110873e16d0d5b142115f5c8434-879219.o not in cache
+[2021-04-21T11:00:12.390780 20740] Running real compiler
+[2021-04-21T11:00:12.417789 21628] Got object file hash from preprocessor
+[2021-04-21T11:00:12.418788 21628] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/4b1ae97b22158af582c8d77620b7a9-806457.o not in cache
+[2021-04-21T11:00:12.418788 21628] Running real compiler
+[2021-04-21T11:00:14.476314 22236] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/795ca1e5d25e4911c876da059cd366-440881.o.tmp.stdout.LACYWRHYQB.22236.1QBI6D
+[2021-04-21T11:00:14.478724 22236] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/795ca1e5d25e4911c876da059cd366-440881.o.tmp.stderr.LACYWRHYQB.22236.SS92c3
+[2021-04-21T11:00:14.481756 4276 ] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/82a90738c8a7902a9b62e28289108c-627605.o.tmp.stdout.LACYWRHYQB.4276.1QBI6D
+[2021-04-21T11:00:14.484223 4276 ] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/82a90738c8a7902a9b62e28289108c-627605.o.tmp.stderr.LACYWRHYQB.4276.SS92c3
+[2021-04-21T11:00:14.495723 22236] Copying __loader.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/795ca1e5d25e4911c876da059cd366-440881.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/795ca1e5d25e4911c876da059cd366-440881.o.LACYWRHYQB.22236.1Apgjk (uncompressed)
+[2021-04-21T11:00:14.500818 22236] Stored in cache: __loader.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/9/795ca1e5d25e4911c876da059cd366-440881.o (copied)
+[2021-04-21T11:00:14.515323 22236] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/a/b4afc63ad9ade4c65bae889a12a3a0-3185.manifest
+[2021-04-21T11:00:14.517223 22236] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:14.522367 22236] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:14.526224 22236] Result: cache miss
+[2021-04-21T11:00:14.527726 22236] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-21T11:00:14.532967 22236] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-21T11:00:14.542224 4276 ] Copying __constants.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/82a90738c8a7902a9b62e28289108c-627605.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/82a90738c8a7902a9b62e28289108c-627605.o.LACYWRHYQB.4276.1Apgjk (uncompressed)
+[2021-04-21T11:00:14.549223 4276 ] Stored in cache: __constants.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/d/82a90738c8a7902a9b62e28289108c-627605.o (copied)
+[2021-04-21T11:00:14.564463 4276 ] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/5/4c7e99efa631b70ba149a614ac7326-4769.manifest
+[2021-04-21T11:00:14.566226 4276 ] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-04-21T11:00:14.578044 4276 ] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-04-21T11:00:14.582724 4276 ] Result: cache miss
+[2021-04-21T11:00:14.584224 4276 ] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-04-21T11:00:14.621250 4276 ] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-04-21T11:00:14.756291 18600] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/cc53a2a18a9ea1e97e3a2192518bbe-631282.o.tmp.stdout.LACYWRHYQB.18600.SS92c3
+[2021-04-21T11:00:14.759790 18600] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/cc53a2a18a9ea1e97e3a2192518bbe-631282.o.tmp.stderr.LACYWRHYQB.18600.1Apgjk
+[2021-04-21T11:00:14.763291 18600] Copying static_src\CompiledCellType.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/cc53a2a18a9ea1e97e3a2192518bbe-631282.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/cc53a2a18a9ea1e97e3a2192518bbe-631282.o.LACYWRHYQB.18600.9lVK7d (uncompressed)
+[2021-04-21T11:00:14.780291 18600] Stored in cache: static_src\CompiledCellType.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/cc53a2a18a9ea1e97e3a2192518bbe-631282.o (copied)
+[2021-04-21T11:00:14.806294 18600] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/177accec1e87f53828b04d7c549a1b-8041.manifest
+[2021-04-21T11:00:14.808292 18600] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-21T11:00:14.829292 18600] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-21T11:00:14.851826 18600] Result: cache miss
+[2021-04-21T11:00:14.853326 18600] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:14.869357 18600] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:15.463865 22524] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2086c7f8d4b0df476e96b44d5b31c7-664350.o.tmp.stdout.LACYWRHYQB.22524.1QBI6D
+[2021-04-21T11:00:15.466362 22524] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2086c7f8d4b0df476e96b44d5b31c7-664350.o.tmp.stderr.LACYWRHYQB.22524.SS92c3
+[2021-04-21T11:00:15.470640 22524] Copying __helpers.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2086c7f8d4b0df476e96b44d5b31c7-664350.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2086c7f8d4b0df476e96b44d5b31c7-664350.o.LACYWRHYQB.22524.1Apgjk (uncompressed)
+[2021-04-21T11:00:15.476564 22524] Stored in cache: __helpers.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/c/2086c7f8d4b0df476e96b44d5b31c7-664350.o (copied)
+[2021-04-21T11:00:15.491862 22524] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/6/e5072091b793d2aeee44730ea4a64d-61946.manifest
+[2021-04-21T11:00:15.493864 22524] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:15.499988 22524] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:15.528866 22524] Result: cache miss
+[2021-04-21T11:00:15.530364 22524] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-04-21T11:00:15.574363 22524] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-04-21T11:00:16.420969 22368] Got object file hash from preprocessor
+[2021-04-21T11:00:16.420969 22368] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/107734a7702b71f24cc46fbf401491-4116863.o not in cache
+[2021-04-21T11:00:16.421469 22368] Running real compiler
+[2021-04-21T11:00:17.299636 21632] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/eddb68e606c2c0bae123f8b79a2a49-711737.o.tmp.stdout.LACYWRHYQB.21632.1QBI6D
+[2021-04-21T11:00:17.302135 21632] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/eddb68e606c2c0bae123f8b79a2a49-711737.o.tmp.stderr.LACYWRHYQB.21632.SS92c3
+[2021-04-21T11:00:17.306199 21632] Copying static_src\CompiledFunctionType.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/eddb68e606c2c0bae123f8b79a2a49-711737.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/eddb68e606c2c0bae123f8b79a2a49-711737.o.LACYWRHYQB.21632.1Apgjk (uncompressed)
+[2021-04-21T11:00:17.313719 21632] Stored in cache: static_src\CompiledFunctionType.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/eddb68e606c2c0bae123f8b79a2a49-711737.o (copied)
+[2021-04-21T11:00:17.330136 21632] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/a/6c8904d205fa0dfebc8133ffe2d113-79022.manifest
+[2021-04-21T11:00:17.332135 21632] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-21T11:00:17.338636 21632] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-21T11:00:17.343135 21632] Result: cache miss
+[2021-04-21T11:00:17.344635 21632] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:17.373220 21632] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:18.225693 23344] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:18.225693 23344] Config: (default) base_dir = 
+[2021-04-21T11:00:18.225693 23344] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:18.225693 23344] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:18.225693 23344] Config: (default) compiler = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:18.225693 23344] Config: (default) compression = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) compression_level = 6
+[2021-04-21T11:00:18.225693 23344] Config: (default) cpp_extension = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) debug = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) depend_mode = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) direct_mode = true
+[2021-04-21T11:00:18.225693 23344] Config: (default) disable = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) hard_link = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) hash_dir = true
+[2021-04-21T11:00:18.225693 23344] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:18.225693 23344] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:18.225693 23344] Config: (default) max_files = 0
+[2021-04-21T11:00:18.225693 23344] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:18.225693 23344] Config: (default) path = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) prefix_command = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) read_only = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) read_only_direct = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) recache = false
+[2021-04-21T11:00:18.225693 23344] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:18.225693 23344] Config: (default) sloppiness = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) stats = true
+[2021-04-21T11:00:18.225693 23344] Config: (default) temporary_dir = 
+[2021-04-21T11:00:18.225693 23344] Config: (default) umask = 
+[2021-04-21T11:00:18.227192 23344] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-04-21T11:00:18.227192 23344] Hostname: LACYWRHYQB
+[2021-04-21T11:00:18.227711 23344] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:18.229694 23344] Source file: static_src\CompiledCodeHelpers.c
+[2021-04-21T11:00:18.229694 23344] Object file: static_src\CompiledCodeHelpers.o
+[2021-04-21T11:00:18.230694 23344] Trying direct lookup
+[2021-04-21T11:00:18.232694 23344] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/9/0b35697990c4be765355091edca1e9-55546.manifest
+[2021-04-21T11:00:18.233194 23344] No such manifest file
+[2021-04-21T11:00:18.233194 23344] Did not find object file hash in manifest
+[2021-04-21T11:00:18.235693 23344] Running preprocessor
+[2021-04-21T11:00:18.268195 23400] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:18.269195 23380] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-21T11:00:18.268195 23400] Config: (default) base_dir = 
+[2021-04-21T11:00:18.268195 23400] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:18.268195 23400] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:18.268195 23400] Config: (default) compiler = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:18.268195 23400] Config: (default) compression = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) compression_level = 6
+[2021-04-21T11:00:18.268195 23400] Config: (default) cpp_extension = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) debug = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) depend_mode = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) direct_mode = true
+[2021-04-21T11:00:18.268195 23400] Config: (default) disable = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) hard_link = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) hash_dir = true
+[2021-04-21T11:00:18.268195 23400] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:18.268195 23400] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:18.268195 23400] Config: (default) max_files = 0
+[2021-04-21T11:00:18.268195 23400] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:18.268195 23400] Config: (default) path = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) prefix_command = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) read_only = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) read_only_direct = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) recache = false
+[2021-04-21T11:00:18.268195 23400] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:18.268195 23400] Config: (default) sloppiness = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) stats = true
+[2021-04-21T11:00:18.268195 23400] Config: (default) temporary_dir = 
+[2021-04-21T11:00:18.268195 23400] Config: (default) umask = 
+[2021-04-21T11:00:18.270194 23400] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-04-21T11:00:18.270194 23400] Hostname: LACYWRHYQB
+[2021-04-21T11:00:18.269195 23380] Config: (default) base_dir = 
+[2021-04-21T11:00:18.269195 23380] Config: (environment) cache_dir = C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-21T11:00:18.269195 23380] Config: (default) cache_dir_levels = 2
+[2021-04-21T11:00:18.269195 23380] Config: (default) compiler = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) compiler_check = mtime
+[2021-04-21T11:00:18.269195 23380] Config: (default) compression = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) compression_level = 6
+[2021-04-21T11:00:18.269195 23380] Config: (default) cpp_extension = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) debug = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) depend_mode = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) direct_mode = true
+[2021-04-21T11:00:18.269195 23380] Config: (default) disable = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) extra_files_to_hash = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) hard_link = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) hash_dir = true
+[2021-04-21T11:00:18.269195 23380] Config: (default) ignore_headers_in_manifest = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) keep_comments_cpp = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) limit_multiple = 0.8
+[2021-04-21T11:00:18.269195 23380] Config: (environment) log_file = C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build\ccache-22380.txt
+[2021-04-21T11:00:18.269195 23380] Config: (default) max_files = 0
+[2021-04-21T11:00:18.269195 23380] Config: (C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-21T11:00:18.269195 23380] Config: (default) path = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) pch_external_checksum = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) prefix_command = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) prefix_command_cpp = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) read_only = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) read_only_direct = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) recache = false
+[2021-04-21T11:00:18.269195 23380] Config: (default) run_second_cpp = true
+[2021-04-21T11:00:18.269195 23380] Config: (default) sloppiness = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) stats = true
+[2021-04-21T11:00:18.269195 23380] Config: (default) temporary_dir = 
+[2021-04-21T11:00:18.269195 23380] Config: (default) umask = 
+[2021-04-21T11:00:18.270194 23380] Command line: C:\Users\plessl\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\plessl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\plessl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-04-21T11:00:18.270695 23380] Hostname: LACYWRHYQB
+[2021-04-21T11:00:18.270695 23400] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:18.271195 23380] Working directory: C:\Users\plessl\PycharmProjects\WPL_GPL\Georg_GUI.build
+[2021-04-21T11:00:18.272973 23400] Source file: static_src\MetaPathBasedLoader.c
+[2021-04-21T11:00:18.273195 23400] Object file: static_src\MetaPathBasedLoader.o
+[2021-04-21T11:00:18.273695 23380] Source file: static_src\InspectPatcher.c
+[2021-04-21T11:00:18.273695 23380] Object file: static_src\InspectPatcher.o
+[2021-04-21T11:00:18.273695 23400] Trying direct lookup
+[2021-04-21T11:00:18.274195 23380] Trying direct lookup
+[2021-04-21T11:00:18.275799 23400] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/7/c7d06d41cb36ecc7e452812c687ec4-53964.manifest
+[2021-04-21T11:00:18.276195 23380] Looking for object file hash in C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/9/a9fe25567f5ce980f5cd6cb5b7c122-13705.manifest
+[2021-04-21T11:00:18.276195 23400] Did not find object file hash in manifest
+[2021-04-21T11:00:18.276695 23380] No such manifest file
+[2021-04-21T11:00:18.276695 23380] Did not find object file hash in manifest
+[2021-04-21T11:00:18.279142 23400] Running preprocessor
+[2021-04-21T11:00:18.279694 23380] Running preprocessor
+[2021-04-21T11:00:20.074489 23380] Got object file hash from preprocessor
+[2021-04-21T11:00:20.074819 23380] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/db9e43efaff5d1f547ff4e593e5321-636967.o not in cache
+[2021-04-21T11:00:20.074819 23380] Running real compiler
+[2021-04-21T11:00:20.128861 20740] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/088110873e16d0d5b142115f5c8434-879219.o.tmp.stdout.LACYWRHYQB.20740.1QBI6D
+[2021-04-21T11:00:20.131319 20740] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/088110873e16d0d5b142115f5c8434-879219.o.tmp.stderr.LACYWRHYQB.20740.SS92c3
+[2021-04-21T11:00:20.134817 20740] Copying module.__main__.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/088110873e16d0d5b142115f5c8434-879219.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/088110873e16d0d5b142115f5c8434-879219.o.LACYWRHYQB.20740.1Apgjk (uncompressed)
+[2021-04-21T11:00:20.145327 20740] Stored in cache: module.__main__.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/6/088110873e16d0d5b142115f5c8434-879219.o (copied)
+[2021-04-21T11:00:20.160318 20740] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/6/7c1cd2e5678daf86efa66698d2162f-258296.manifest
+[2021-04-21T11:00:20.162320 20740] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-21T11:00:20.167820 20740] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-21T11:00:20.172522 20740] Result: cache miss
+[2021-04-21T11:00:20.174007 20740] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-04-21T11:00:20.178323 20740] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/stats.lock
+[2021-04-21T11:00:20.675503 21628] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/4b1ae97b22158af582c8d77620b7a9-806457.o.tmp.stdout.LACYWRHYQB.21628.FzP5tM
+[2021-04-21T11:00:20.678502 21628] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/4b1ae97b22158af582c8d77620b7a9-806457.o.tmp.stderr.LACYWRHYQB.21628.1QBI6D
+[2021-04-21T11:00:20.683002 21628] Copying static_src\CompiledGeneratorType.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/4b1ae97b22158af582c8d77620b7a9-806457.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/4b1ae97b22158af582c8d77620b7a9-806457.o.LACYWRHYQB.21628.SS92c3 (uncompressed)
+[2021-04-21T11:00:20.696557 21628] Stored in cache: static_src\CompiledGeneratorType.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/c/4b1ae97b22158af582c8d77620b7a9-806457.o (copied)
+[2021-04-21T11:00:20.711003 21628] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/5/f7bc8607b8fc6c523c47c2f9a4afdb-57471.manifest
+[2021-04-21T11:00:20.713001 21628] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:20.718502 21628] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:20.723005 21628] Result: cache miss
+[2021-04-21T11:00:20.724503 21628] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:20.750502 21628] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:20.879003 22368] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/107734a7702b71f24cc46fbf401491-4116863.o.tmp.stdout.LACYWRHYQB.22368.1QBI6D
+[2021-04-21T11:00:20.882094 22368] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/107734a7702b71f24cc46fbf401491-4116863.o.tmp.stderr.LACYWRHYQB.22368.SS92c3
+[2021-04-21T11:00:20.886502 22368] Copying static_src\MainProgram.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/107734a7702b71f24cc46fbf401491-4116863.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/107734a7702b71f24cc46fbf401491-4116863.o.LACYWRHYQB.22368.1Apgjk (uncompressed)
+[2021-04-21T11:00:20.892004 22368] Stored in cache: static_src\MainProgram.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/8/107734a7702b71f24cc46fbf401491-4116863.o (copied)
+[2021-04-21T11:00:20.925006 22368] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/3/0fb734e9a86184b006a2a1160da2f2-26291.manifest
+[2021-04-21T11:00:20.927003 22368] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-04-21T11:00:20.932504 22368] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-04-21T11:00:20.939505 22368] Result: cache miss
+[2021-04-21T11:00:20.941503 22368] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-21T11:00:20.984004 22368] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-21T11:00:21.689557 23380] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/db9e43efaff5d1f547ff4e593e5321-636967.o.tmp.stdout.LACYWRHYQB.23380.1QBI6D
+[2021-04-21T11:00:21.692057 23380] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/db9e43efaff5d1f547ff4e593e5321-636967.o.tmp.stderr.LACYWRHYQB.23380.SS92c3
+[2021-04-21T11:00:21.695553 23380] Copying static_src\InspectPatcher.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/db9e43efaff5d1f547ff4e593e5321-636967.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/db9e43efaff5d1f547ff4e593e5321-636967.o.LACYWRHYQB.23380.1Apgjk (uncompressed)
+[2021-04-21T11:00:21.702165 23380] Stored in cache: static_src\InspectPatcher.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/7/db9e43efaff5d1f547ff4e593e5321-636967.o (copied)
+[2021-04-21T11:00:21.717078 23380] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/9/a9fe25567f5ce980f5cd6cb5b7c122-13705.manifest
+[2021-04-21T11:00:21.719558 23380] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:21.724748 23380] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-21T11:00:21.728556 23380] Result: cache miss
+[2021-04-21T11:00:21.730056 23380] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-21T11:00:21.743056 23380] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-21T11:00:22.757881 23400] Got object file hash from preprocessor
+[2021-04-21T11:00:22.757881 23400] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/41bfda2a906d0045f1df5250142495-4145533.o not in cache
+[2021-04-21T11:00:22.757881 23400] Running real compiler
+[2021-04-21T11:00:23.695276 23344] Got object file hash from preprocessor
+[2021-04-21T11:00:23.695276 23344] Object file C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/2/26fb6360551e503d7ce822b8ead564-5798528.o not in cache
+[2021-04-21T11:00:23.695276 23344] Running real compiler
+[2021-04-21T11:00:26.103134 23400] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/41bfda2a906d0045f1df5250142495-4145533.o.tmp.stdout.LACYWRHYQB.23400.1QBI6D
+[2021-04-21T11:00:26.105139 23400] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/41bfda2a906d0045f1df5250142495-4145533.o.tmp.stderr.LACYWRHYQB.23400.SS92c3
+[2021-04-21T11:00:26.107669 23400] Copying static_src\MetaPathBasedLoader.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/41bfda2a906d0045f1df5250142495-4145533.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/41bfda2a906d0045f1df5250142495-4145533.o.LACYWRHYQB.23400.1Apgjk (uncompressed)
+[2021-04-21T11:00:26.114132 23400] Stored in cache: static_src\MetaPathBasedLoader.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/41bfda2a906d0045f1df5250142495-4145533.o (copied)
+[2021-04-21T11:00:26.128134 23400] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/7/c7d06d41cb36ecc7e452812c687ec4-53964.manifest
+[2021-04-21T11:00:26.129666 23400] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-04-21T11:00:26.134633 23400] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-04-21T11:00:26.138651 23400] Result: cache miss
+[2021-04-21T11:00:26.139632 23400] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:26.151133 23400] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-21T11:00:39.403083 23344] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/2/26fb6360551e503d7ce822b8ead564-5798528.o.tmp.stdout.LACYWRHYQB.23344.1QBI6D
+[2021-04-21T11:00:39.404087 23344] Unlink C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/2/26fb6360551e503d7ce822b8ead564-5798528.o.tmp.stderr.LACYWRHYQB.23344.SS92c3
+[2021-04-21T11:00:39.404087 23344] Copying static_src\CompiledCodeHelpers.o to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/2/26fb6360551e503d7ce822b8ead564-5798528.o via C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/2/26fb6360551e503d7ce822b8ead564-5798528.o.LACYWRHYQB.23344.1Apgjk (uncompressed)
+[2021-04-21T11:00:39.439964 23344] Stored in cache: static_src\CompiledCodeHelpers.o -> C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/2/26fb6360551e503d7ce822b8ead564-5798528.o (copied)
+[2021-04-21T11:00:39.458088 23344] Added object file hash to C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/9/0b35697990c4be765355091edca1e9-55546.manifest
+[2021-04-21T11:00:39.459086 23344] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-04-21T11:00:39.462938 23344] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-04-21T11:00:39.462938 23344] Result: cache miss
+[2021-04-21T11:00:39.469718 23344] Acquired lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-04-21T11:00:39.478939 23344] Releasing lock C:\Users\plessl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock

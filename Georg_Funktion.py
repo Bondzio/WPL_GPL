@@ -1,3 +1,17 @@
+import webbrowser
+
+
+class Georg_Movie():
+    def __init__(self, movie_title, movie_storyline, movie_posterimg, movie_trailerurl):
+        self.movie_title = movie_title
+        self.movie_storyline = movie_storyline
+        self.movie_posterimg = movie_posterimg
+        self.movie_trailerurl = movie_trailerurl
+
+    def showTrailer(self):
+        webbrowser.open(self.movie_trailerurl)
+
+
 def alterinStunden(jahre):
     stunden = jahre * 365 * 24
     return stunden

@@ -25,3 +25,11 @@ if __name__ == '__main__':
         w.write(str(stunden))
         w.write('\n')
 
+
+    quanten = gf.Georg_Movie('Quantencomputer - unktionsweise und Anwendungen',
+                                'Quantencomputer', 'quantencomputer.jpg',
+                                'https://www.youtube.com/watch?v=m67jr1KQES0')
+
+    print(quanten.movie_storyline)
+
+    quanten.showTrailer()
