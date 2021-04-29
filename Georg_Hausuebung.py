@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
     jahre = gf.alterInput()
     stunden = gf.alterinStunden(jahre)
-    print(f'Stunden: {stunden}')
+    print(f'{jahre} Jahre sind {stunden} Stunden')
 
     with open(FILENAME, 'a') as w:
         w.write('\nAlter: ')
@@ -26,10 +26,13 @@ if __name__ == '__main__':
         w.write('\n')
 
 
-    quanten = gf.Georg_Movie('Quantencomputer - unktionsweise und Anwendungen',
+    quanten = gf.Georg_Movie('Quantencomputer - funktionsweise und Anwendungen',
                                 'Quantencomputer', 'quantencomputer.jpg',
                                 'https://www.youtube.com/watch?v=m67jr1KQES0')
 
-    print(quanten.movie_storyline)
+    quanten2 = gf.Georg_Movie()  # no parameter --> use default constructor
+
+    print(f"Object quanten: {quanten.movie_title}")
+    print(f"Object quanten: {quanten2.movie_title}")
 
     quanten.showTrailer()
